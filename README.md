@@ -37,7 +37,7 @@ Runs on a local model via Ollama or on hosted OpenAI-compatible APIs (Groq, Open
 
 ```bash
 git clone https://github.com/tnshkAI/Web-Insight-AI-LLM-Powered-Website-Summarizer-Brochure-Generator.git
-cd YOUR-REPO
+cd Web-Insight-AI-LLM-Powered-Website-Summarizer-Brochure-Generator
 pip install -r requirements.txt
 
 # Option A: local model
