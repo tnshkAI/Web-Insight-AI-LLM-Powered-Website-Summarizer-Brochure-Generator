@@ -4,7 +4,7 @@ LLM-powered website summarizer and company brochure generator, built with Stream
 Paste any URL and get a tone-controlled summary or a full brochure, streamed live.
 Runs on a local model via Ollama or on hosted OpenAI-compatible APIs (Groq, OpenAI, OpenRouter).
 
-**[Live Demo](https://YOUR-APP.streamlit.app)** · ![Python](assets/2.png) ![Streamlit](assets/1.png)
+**[Live Demo](https://web-insight-ai-llm-powered-website-summarizer-brochure-generat.streamlit.app/)** · ![Python](assets/2.png) ![Streamlit](assets/1.png)
 
 <!-- Add a screenshot or GIF here: ![demo](assets/demo.gif) -->
 
