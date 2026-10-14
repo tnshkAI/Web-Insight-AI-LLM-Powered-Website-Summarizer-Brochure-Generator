@@ -28,8 +28,7 @@ def fetch_website_contents(url):
 def fetch_website_links(url):
     """
     Return the links on the webiste at the given url
-    I realize this is inefficient as we're parsing twice! This is to keep the code in the lab simple.
-    Feel free to use a class and optimize it!
+    
     """
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.content, "html.parser")
